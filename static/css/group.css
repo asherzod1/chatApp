@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.comments_area{
+    width: 80%;
+    border: 1px solid #ddd;
+    background-color: #fff;
+    overflow-y: scroll;
+    border-radius: 15px;
+    height: 500px;
+}
+.comment_forms{
+    width: 80%;
+}
+.comment{
+    padding: 8px 16px;
+
+
+}
+.comment_person{
+    background-color: #ddd;
+    padding: 2px 8px;
+    border-radius: 4px;
+}
+.comment_content{
+    border-radius: 4px;
+    padding: 2px 4px;
+    margin-top: 4px;
+    border: 1px solid #aaa;
+}
